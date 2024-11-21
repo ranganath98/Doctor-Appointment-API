@@ -1,0 +1,18 @@
+{
+  "name": "doctor_appoinment_app",
+  "version": "1.0.0",
+  "description": "Doctor Appointment Booking System",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha 'tests/**/*.js'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.5.0",
+    "chai-http": "^4.4.0",
+    "mocha": "^10.8.2",
+    "uuid": "^11.0.3"
+  }
+}
